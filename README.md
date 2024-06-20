@@ -21,4 +21,4 @@ This landing page replicates the design and user interface inspired by Hotstar, 
 
 ## Usage
 
-Explore the landing page to experience the design and layout inspired by Hotstar, following the techniques learned in the YouTube tutorial.
+Explore the landing page to experience the design and layout inspired by Hotstar, following the techniques learned in the Bootcamp.
