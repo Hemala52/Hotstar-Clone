@@ -1,6 +1,6 @@
 # Hotstar-Clone
 
-Welcome to the landing page of our Hotstar clone project, created following a YouTube bootcamp by devtown!
+Welcome to the landing page of Hotstar clone project, created following a YouTube bootcamp by devtown!
 
 ## Overview
 
